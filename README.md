@@ -25,13 +25,13 @@ This project showcases the history of Audi, highlights various popular models, a
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Audi-Blog-Website.git
+   git clone https://github.com/Inst3p428/Audi-Blog-Website/tree/main
    cd Audi-Blog-Website
 🌐 Deployment
 This project is live at:
 
-👉 https://yourusername.github.io/Audi-Blog-Website
-(Replace with your actual GitHub Pages or Netlify/Vercel link.)
+👉 https://inst3p428.github.io/Audi-Blog-Website/index.html
+
 
 🛠️ Technologies Used
 HTML5 – Semantic page structure
