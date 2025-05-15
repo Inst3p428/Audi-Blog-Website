@@ -25,7 +25,7 @@ This project showcases the history of Audi, highlights various popular models, a
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Inst3p428/Audi-Blog-Website/tree/main
+   git clone https://github.com/Inst3p428/Audi-Blog-Website
    cd Audi-Blog-Website
 🌐 Deployment
 This project is live at:
